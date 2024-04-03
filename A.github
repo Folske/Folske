@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Opciones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            margin: 20px;
+        }
+
+        #enlaces {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #5bc0de;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #d9edf7;
+            border-radius: 5px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #31708f;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="enlaces">
+        <h1>Lista de Opciones</h1>
+        <ul>
+            <li><a href="https://www.mercadolibre.com.ar/auricular-inalambrico-noga-aris-ng-bt469-azul-y-negro/p/MLA15743885?pdp_filters=price:*-20000" target="_blank">Auriculares inalambricos</a></li>
+            <li><a href="https://articulo.mercadolibre.com.ar/MLA-930298899-resorte-mano-hand-grip-regulable-antebrazo-ejercicio-fitness-_JM#position=1&search_layout=stack&type=item&tracking_id=c8d12a89-ba0c-46d4-b9ab-e2213449102d" target="_blank">Handgrip</a></li>
+            <li><a href="https://www.mercadolibre.com.ar/smartwatch-generica-zl02d-128-malla-negra/p/MLA25862113#reco_backend=machinalis-comparator-new-brand&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=8c803578-c37a-4219-bffc-6a7b2004a7fc" target="_blank">Reloj</a></li>
+            <li><a href="https://articulo.mercadolibre.com.ar/MLA-1391324973-mini-drone-plegable-doble-camara-4k-fpv-gps-wifi-1-bateria-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1" target="_blank">Mini Drone</a></li>
+            <li><a href="https://articulo.mercadolibre.com.ar/MLA-1200102177-pelota-futsal-n4-futbol-simil-cuero-medio-pique-papi-_JM#position=13&search_layout=stack&type=item&tracking_id=50f8dc21-32a1-42f9-ae07-10b1dce1d1ee" target="_blank">Pelota Futsal</a></li>
+        </ul>
+    </div>
+
+</body>
+</html>
+
